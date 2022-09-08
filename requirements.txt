@@ -1,0 +1,2 @@
+httpx>=0.15.0
+pydantic[email]>=1.7
